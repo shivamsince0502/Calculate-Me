@@ -6,6 +6,9 @@ This web app is to give user the ease to calculate basic maths calculations incl
 4. Division
 5. following BODMAS rules
 
+# Higlight of the Project
+It has a dark and light theme css included in it
+
 Tech Stack used
 1. HTML 
 2. CSS
